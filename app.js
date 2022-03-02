@@ -19,6 +19,8 @@ console.log(nameE1);
 console.log(favplaceE1);
 console.log(hobbiesE1);
 
+
+
 // set event listeners 
     // get user input
     // use user input to update state 

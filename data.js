@@ -1,7 +1,6 @@
 export const people = [
 
     {
-        id: 1,
         name: 'Cody',
         pronouns: 'they/them',
         favorite_place: 'Miami, FL',
